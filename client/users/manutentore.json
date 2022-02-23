@@ -1,0 +1,8 @@
+{
+	"host": "localhost",
+	"username": "MANUTENTORE",
+	"password": "manutentore",
+	"port": 3306,
+	"database": "Ferrovie"
+}
+

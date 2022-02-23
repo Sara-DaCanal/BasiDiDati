@@ -1,0 +1,8 @@
+{
+	"host": "localhost",
+	"username": "MACCHINISTA",
+	"password": "macchinista",
+	"port": 3306,
+	"database": "Ferrovie"
+}
+
